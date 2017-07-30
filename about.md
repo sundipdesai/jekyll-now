@@ -20,6 +20,4 @@ The purpose of this blog is to learn by sharing. In this blog you'll find small 
 
 
 ### Contact me
-I'd love to connect and share ideas. You can contact me [here].
-
-[here]: <a href=“mailto:sundipdesai@gmail.com”>
+I'd love to connect and share ideas. You can contact me [here](mailto:sundipdesai@gmail.com)
